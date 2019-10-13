@@ -33,10 +33,7 @@ body {
 }
 
 .cell {
-  display: flex;
   background-color: #eee;
-  justify-content: center;
-  align-items: center;
   background-size: cover;
 }
 
