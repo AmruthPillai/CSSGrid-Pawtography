@@ -1,6 +1,8 @@
 # CSS Grid Pawtography
 An exploration into CSS Grids and their amazing capabilities, along with the cuteness of furry lil' puppies.
 
+Here's a live demo: https://amruthpillai.github.io/CSSGrid-Pawtography/
+
 ---
 
 ## Exploring CSS Grids
